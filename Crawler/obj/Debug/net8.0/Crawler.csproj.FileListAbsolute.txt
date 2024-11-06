@@ -1,0 +1,14 @@
+/Users/aywei/Documents/csharp/ceralp/Crawler/obj/Debug/net8.0/Crawler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aywei/Documents/csharp/ceralp/Crawler/obj/Debug/net8.0/Crawler.AssemblyInfoInputs.cache
+/Users/aywei/Documents/csharp/ceralp/Crawler/obj/Debug/net8.0/Crawler.AssemblyInfo.cs
+/Users/aywei/Documents/csharp/ceralp/Crawler/obj/Debug/net8.0/Crawler.csproj.CoreCompileInputs.cache
+/Users/aywei/Documents/csharp/ceralp/Crawler/bin/Debug/net8.0/Crawler
+/Users/aywei/Documents/csharp/ceralp/Crawler/bin/Debug/net8.0/Crawler.deps.json
+/Users/aywei/Documents/csharp/ceralp/Crawler/bin/Debug/net8.0/Crawler.runtimeconfig.json
+/Users/aywei/Documents/csharp/ceralp/Crawler/bin/Debug/net8.0/Crawler.dll
+/Users/aywei/Documents/csharp/ceralp/Crawler/bin/Debug/net8.0/Crawler.pdb
+/Users/aywei/Documents/csharp/ceralp/Crawler/obj/Debug/net8.0/Crawler.dll
+/Users/aywei/Documents/csharp/ceralp/Crawler/obj/Debug/net8.0/refint/Crawler.dll
+/Users/aywei/Documents/csharp/ceralp/Crawler/obj/Debug/net8.0/Crawler.pdb
+/Users/aywei/Documents/csharp/ceralp/Crawler/obj/Debug/net8.0/Crawler.genruntimeconfig.cache
+/Users/aywei/Documents/csharp/ceralp/Crawler/obj/Debug/net8.0/ref/Crawler.dll
